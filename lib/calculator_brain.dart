@@ -24,11 +24,11 @@ class Calculate {
 
   String getAdvise() {
     if (_bmi >= 25) {
-      return 'You have a more than normal body weight.\n Try to do more Exercise and Have a proper Diet';
+      return 'You have a more than normal body weight.\n ';
     } else if (_bmi > 18.5) {
-      return 'You have a normal body weight.\nGood job!Keep Working Like this.';
+      return 'You have a normal body weight.\n.';
     } else {
-      return 'You have a lower than normal body weight.\n Try to eat more Healthy Food and Exersise to gain Muscles ';
+      return 'You have a lower than normal body weight.\n  ';
     }
   }
 
