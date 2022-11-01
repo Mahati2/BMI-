@@ -1,6 +1,6 @@
 # BMI CALCULATOR APP
 
-![BMI-Calculator-App]
+[BMI-Calculator-App]
 A new Flutter project.
 # How It Will look 👇
 <table>
