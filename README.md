@@ -2,7 +2,7 @@
 
 [BMI-Calculator-App]
 A new Flutter project.
-# How It Will look 👇
+# How It Was Before 👇
 <table>
   <tr>
       <td>
